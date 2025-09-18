@@ -3,5 +3,24 @@
     "file": "experiments/example.js",
     "name": "Name of your experiment",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
-  }
+  },
+
+  {
+  "file": "experiments/Sol.js",
+  "name": "A Square Divided Horizontally and Vertically into Four Equal Parts, Each with a Different Direction of Alternating Parallel Bands of Lines",
+  "description": "Draws a large square with four inner squares filled with wiggly lines in different styles using p5.js and clipping."
+},
+
+ {
+  "file": "experiments/Sol_V1.js",
+  "name": "A Square Divided Horizontally and Vertically into Four Equal Parts, Each with a Different Direction of Alternating Parallel Bands of Lines",
+  "description": "Draws a large square with four inner squares filled with wiggly lines in different styles and colors using p5.js and clipping."
+},
+
+ {
+  "file": "experiments/Sol_V2.js",
+  "name": "A Square Divided Horizontally and Vertically into Four Equal Parts, Each with a Different Direction of Alternating Parallel Bands of Lines",
+  "description": "Draws a large square with four inner squares filled with wiggly lines in different styles, colors and loops using p5.js and clipping."
+}
+
 ]
