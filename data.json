@@ -21,6 +21,26 @@
   "file": "experiments/Sol_V2.js",
   "name": "A Square Divided Horizontally and Vertically into Four Equal Parts, Each with a Different Direction of Alternating Parallel Bands of Lines",
   "description": "Draws a large square with four inner squares filled with wiggly lines in different styles, colors and loops using p5.js and clipping."
+},
+
+ {
+  "file": "experiments/flow_field.js",
+  "name": "Simple Flow",
+  "description": "initial experimenting with flow fields and perlin noise with mouse clicks."
+},
+
+ {
+  "file": "experiments/flow_part.js",
+  "name": "Contrasted Merlin's Beard",
+  "description": "initial experimenting with flow fields and perlin noise while introducing particle generators including mouse clicks."
+},
+
+ {
+  "file": "experiments/flow_part_v1.js",
+  "name": "Amalgamated Paint",
+  "description": "initial experimenting with flow fields and perlin noise with particles to display a mixed paint-like strokes with mouse clicks."
 }
+
+
 
 ]
