@@ -39,6 +39,12 @@
   "file": "experiments/flow_part_v1.js",
   "name": "Amalgamated Paint",
   "description": "initial experimenting with flow fields and perlin noise with particles to display a mixed paint-like strokes with mouse clicks."
+},
+
+ {
+  "file": "experiments/sound.js",
+  "name": "Minor Flow Sound",
+  "description": "initial experimenting with previous work and tone.js adding a kick drum loop with hihats and adding a minor chord progression with the particles."
 }
 
 
